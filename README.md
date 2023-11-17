@@ -1,4 +1,3 @@
-# Data-science-portfolio
 ## About Me
 
 Hello and welcome! I am Anthony Ramirez, a data scientist with a strong academic foundation in machine learning, statistics, and data analysis. I am passionate about using data to solve real-world problems and gain insights into trending issues.
