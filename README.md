@@ -9,7 +9,7 @@ My passion for data science extends beyond the classroom and research lab. I hav
 
 I am eager to continue my journey in the field of data science, utilizing my skills and knowledge to address challenging problems and make a meaningful impact in the world.
 
-**
+
 ## Projects
 [Project 1]
 A brief description of the project, including the goals, methods, and results.
