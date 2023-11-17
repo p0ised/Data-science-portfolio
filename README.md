@@ -8,9 +8,11 @@ I am passionate about using data to solve real-world problems.  I am also intere
 [Project 1]
 A brief description of the project, including the goals, methods, and results.
 A link to the project repository or website.
+
 [Project 2]
 A brief description of the project, including the goals, methods, and results.
 A link to the project repository or website.
+
 [Project 3]
 A brief description of the project, including the goals, methods, and results.
 A link to the project repository or website.
