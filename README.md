@@ -1,6 +1,6 @@
 ## About Me
 
-Hello and welcome! I am Anthony Ramirez, a Data Scientist and MBA graduate with a strong academic foundation in machine learning, statistics, and data analysis. I am passionate about using data to solve real-world problems and gain insights into trending issues.
+Hello and welcome! I am Anthony Ramirez, a Data Scientist and MBA graduate  I am passionate about using data to solve real-world problems and gain insights into trending issues.
 
 Through my coursework and research, I have developed expertise in data gathering, cleaning, exploration, modeling, and interpretation. I am proficient in programming languages essential for data science, including Python, R, and SQL. I also possess strong skills in data visualization, effectively communicating complex data insights through clear and compelling visuals.
 
