@@ -48,13 +48,4 @@ A link to the project repository or website.
     * Problem-solving skills
     * Ability to translate complex data into meaningful insights.
 
-Projects
-[Project 1]
-A brief description of the project, including the goals, methods, and results.
-A link to the project repository or website.
-[Project 2]
-A brief description of the project, including the goals, methods, and results.
-A link to the project repository or website.
-[Project 3]
-A brief description of the project, including the goals, methods, and results.
-A link to the project repository or website.
+
