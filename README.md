@@ -24,28 +24,32 @@ A link to the project repository or website.
 
 
 ## Skills
-* Technical Skills:
-    * Python
-    * R
-    * SQL
-    * NoSQL databases
-    * Data analysis
-    * Data visualization
-    * Data collection, cleaning, and wrangling
-    * Statistical modeling
-    * Large dataset handling
-    * Exploratory data analysis
-    * Regression analysis
-    * Time series analysis
-    * Natural language processing (NLP)
-    * Clustering and classification algorithms
-    * Excel (Advanced)
-    * Machine learning
-    * Ensemble methods
- * Soft Skills:
-    * Strong leadership and team-building skills
-    * Excellent communication and interpersonal skills
-    * Problem-solving skills
-    * Ability to translate complex data into meaningful insights.
+* Technical Skills
+
+Programming Languages:
+
+Python (Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow)
+
+
+Data Manipulation:
+
+SQL/NoSQL Databases
+RStudio (R)
+Data Wrangling (Collection, Cleaning, Structuring)
+Data Analysis:
+
+Exploratory Data Analysis
+Data Visualization
+Statistical Modeling
+Large Dataset Handling
+Advanced Excel
+Machine Learning:
+
+Ensemble Methods (e.g., Random Forests - if applicable)
+Time Series Analysis (e.g., ARIMA models - if applicable)
+Clustering & Classification Algorithms (e.g., K-Means, Support Vector Machines)
+Regression Analysis
+Natural Language Processing (NLP)
+Deep Learning
 
 
