@@ -26,30 +26,36 @@ A link to the project repository or website.
 ## Skills
 * Technical Skills
 
-Programming Languages:
+Programming Languages: 
 
-Python (Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow)
+Python (Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow).
 
 
-Data Manipulation:
 
-SQL/NoSQL Databases
-RStudio (R)
-Data Wrangling (Collection, Cleaning, Structuring)
-Data Analysis:
+Data Manipulation: 
 
-Exploratory Data Analysis
-Data Visualization
-Statistical Modeling
-Large Dataset Handling
-Advanced Excel
-Machine Learning:
+SQL/NoSQL Databases, RStudio (R), Data Wrangling (Collection, Cleaning, Structuring).
 
-Ensemble Methods (e.g., Random Forests - if applicable)
-Time Series Analysis (e.g., ARIMA models - if applicable)
-Clustering & Classification Algorithms (e.g., K-Means, Support Vector Machines)
-Regression Analysis
-Natural Language Processing (NLP)
-Deep Learning
+
+
+Data Analysis: 
+
+
+Exploratory Data Analysis, Data Visualization, Statistical Modeling, Large Dataset Handling.
+
+
+
+Data Mining: 
+
+Gathering, Preparation, Algorithmic Application.
+
+
+
+Machine Learning: 
+
+
+Ensemble Methods, Time Series Analysis, Clustering & Classification Algorithms, Regression Analysis, Natural Language Processing (NLP), Deep Learning.
+![image](https://github.com/p0ised/Data-science-portfolio-Anthony_R/assets/138183884/e95d8208-7cac-4ad4-a33c-c2890280efaf)
+
 
 
