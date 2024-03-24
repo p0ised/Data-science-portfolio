@@ -9,6 +9,10 @@ I am eager to continue my journey in the field of data science, utilizing my ski
 📫 How to reach me LinkedIn: LinkedIn
 
 ## Projects
+The goal of my projects: 
+
+Use of defferent analytical approached such as Descriptive, Predictive and Clustering. 
+
 [Project 1](Replace with a clear and concise title)
 Description: Briefly describe the problem you addressed, the data you used, and the key methodologies employed (e.g., machine learning models, data visualization techniques).
 Results/Impact: (Optional) Briefly showcase any impressive results or impacts from your project (e.g., improved model accuracy, actionable insights).
